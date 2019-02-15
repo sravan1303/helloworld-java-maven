@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment123</id>
+        <name>deployment</name>
         <url>http://192.168.12.167:8081/nexus/content/repositories/MYF/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment123</id>
+        <name>deployment</name>
         <url>http://192.168.12.167:8081/nexus/content/repositories/MYF2/</url>
     </snapshotRepository>
 </distributionManagement>
